@@ -1,7 +1,7 @@
-# scam-detection-tool
-# AI-Powered Phishing Email Detector
+Professional Scam Detection Tool
+# AI-Powered Phishing Detector
 
-An advanced desktop application that uses AI and machine learning to detect phishing emails with detailed threat analysis.
+An advanced desktop application that uses AI and machine learning to detect phishing and malware with detailed threat analysis.
 
 ## Features
 
